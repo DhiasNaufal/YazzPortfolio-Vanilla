@@ -291,6 +291,9 @@ section {
     border-color: rgb(163, 163, 163); */
     text-align: center;
   }
+  .article-container:hover img{
+    transform: scale(1.1);
+  }
   .text-detail-container{
     padding: 1.5rem;
     flex: 1;
